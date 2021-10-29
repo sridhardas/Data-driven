@@ -52,7 +52,7 @@ public static void particular_Data() throws Throwable {
 
 public static void allData() throws Throwable {
 	System.out.println();
-	System.out.println("all data is");
+	System.out.println("all data WAS SRIDHAR");
 File f =new File("C:\\Users\\sridhar\\OneDrive\\Desktop\\Datadrivenread.xlsx");
 	FileInputStream fis=new FileInputStream(f);
 	Workbook w=new XSSFWorkbook(fis);
